@@ -15,3 +15,4 @@ Your closing logic should look like this
   }
 ```
 This is useful when you need to close the react native app integrated into the native app
+You need to place BackHandlerIOS.m into your existing Xcode project
